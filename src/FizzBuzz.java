@@ -1,8 +1,3 @@
-import org.w3c.dom.ranges.Range;
-
-import java.awt.font.NumericShaper;
-import java.util.stream.IntStream;
-
 /*
  * Reto #0
  * Enunciado: Escribe un programa que muestre por consola (con un print)
